@@ -99,3 +99,9 @@ Start: 2023.11 - Total: 15 Lectures - Now: Introduction of Deep Learning
 Start: 2023.12 - Total: 19 Lectures - Now: Intro & Word Vectors
 
 ![](https://progress-bar.dev/4/)
+
+#### 6. 2021 Spring - Berkeley - CS61B, Data Structures
+
+Start: 2023.12 - Total: 40 Lectures - Now: Intro, Hello World Java
+
+![](https://progress-bar.dev/2/)
