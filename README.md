@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I am CoderBak from Renmin University of China
 
 <!--
 **CoderBak/CoderBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,35 +68,34 @@ Here are some ideas to get you started:
 ************************************************** 100%
 -->
 
-The courses I have learned:
+#### The courses I have learned:
 
-1. 2020 - MIT - Missing Semester
+#### 1. 2020 - MIT - Missing Semester
 
-Start: 2023.10  Total: 10 Lectures  Now: Data Wrangling
+Start: 2023.10 - Total: 10 Lectures - Now: Data Wrangling
 
-********************                               40%
+![](https://progress-bar.dev/40/)
 
-2. Duke - Introductory C Programming Specialization
+#### 2. Duke - Introductory C Programming Specialization
 
-Start: 2023.10  Total: 17 Lectures  Now: Programming Fundamentals - Introduction
+Start: 2023.10 - Total: 17 Lectures - Now: Programming Fundamentals - Introduction
 
-***                                                6%
+![](https://progress-bar.dev/6/)
 
-3. 2020 Fall - Berkeley - CS61A, SICP
+#### 3. 2020 Fall - Berkeley - CS61A, SICP
 
-Start: 2023.11  Total: 38 Lectures  Now: Ethical AI & Data
+Start: 2023.11 - Total: 38 Lectures - Now: Ethical AI & Data
 
-**********************************                 68%
+![](https://progress-bar.dev/68/)
 
-4. 2022 Spring - NTU - Machine Learning
+#### 4. 2022 Spring - NTU - Machine Learning
 
-Start: 2023.11  Total: 15 Lectures  Now: Introduction of Deep Learning
+Start: 2023.11 - Total: 15 Lectures - Now: Introduction of Deep Learning
 
-***                                                6%
+![](https://progress-bar.dev/6/)
 
-5. 2023 Winter - Stanford - CS224n, NLP with Deep Learning
+#### 5. 2023 Winter - Stanford - CS224n, NLP with Deep Learning
 
-Start: 2023.12  Total: 19 Lectures  Now: Intro & Word Vectors
+Start: 2023.12 - Total: 19 Lectures - Now: Intro & Word Vectors
 
-**                                                 4%
-
+![](https://progress-bar.dev/4/)
