@@ -51,6 +51,6 @@ Start: 2023.12 - Total: 19 Lectures - Now: Intro & Word Vectors
 
 #### 6. 2021 Spring - Berkeley - CS61B, Data Structures
 
-Start: 2023.12 - Total: 40 Lectures - Now: DLLists, Arrays
+Start: 2023.12 - Total: 40 Lectures - Now: Extends, Casting, Higher Order Functions
 
-![](https://progress-bar.dev/12/)
+![](https://progress-bar.dev/20/)
