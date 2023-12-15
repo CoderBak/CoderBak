@@ -33,9 +33,9 @@ Start: 2023.10 - Total: 17 Lectures - Now: Programming Fundamentals - Introducti
 
 #### 3. 2020 Fall - Berkeley - CS61A, SICP
 
-Start: 2023.11 - Total: 38 Lectures - Now: Tables
+Start: 2023.11 - Total: 38 Lectures
 
-![](https://progress-bar.dev/84/)
+![](https://progress-bar.dev/98/)
 
 #### 4. 2022 Spring - NTU - Machine Learning
 
