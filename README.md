@@ -27,9 +27,9 @@ Start: 2023.10 - Total: 10 Lectures - Now: Data Wrangling
 
 #### 2. Duke - Introductory C Programming Specialization
 
-Start: 2023.10 - Total: 17 Lectures - Now: Programming Fundamentals - Introduction
+Start: 2023.10 - Total: 17 Lectures - Now: Writing Code
 
-![](https://progress-bar.dev/6/)
+![](https://progress-bar.dev/24/)
 
 #### 3. 2020 Fall - Berkeley - CS61A, SICP (2023.11 - 2023.12)
 
