@@ -49,6 +49,6 @@ Start: 2023.12 - Total: 19 Lectures - Now: Intro & Word Vectors
 
 #### 6. 2021 Spring - Berkeley - CS61B, Data Structures
 
-Start: 2023.12 - Total: 40 Lectures - Now: Hashing
+Start: 2023.12 - Total: 40 Lectures - Now: Minimum Spanning Trees
 
-![](https://progress-bar.dev/50/)
+![](https://progress-bar.dev/60/)
