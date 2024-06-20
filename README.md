@@ -1,55 +1,5 @@
-### Hi there 👋 , I am CoderBak from Renmin University of China
+Hi there 👋 , I'm Haoxiang Sun (孙浩翔), a first-year undergraduate at [Turing Experimental Class](http://info.ruc.edu.cn/rcpy/bks/pyms/90f3e141aa5643ceb489b9a434ad50bc.htm) in [Renmin University of China](https://www.ruc.edu.cn), majoring in Computer Science. With great interest in economics, I am also pursuing a minor in Finance at [Gaoli Experimental Class](http://gaoli.ruc.edu.cn/xspy/gljrkjsxw/index.htm) hosted by [Hillhouse Academy](https://www.globalhha.com/hhasite).
 
-Welcome to my personal website: [coderbak.com](https://coderbak.com) or the mirror website: [coderbak.github.io](https://coderbak.github.io)
-<!--
-**CoderBak/CoderBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current interests are in **large language models** (LLMs), particularly in enhancing their mathematical abilities. I'm also eager to dive deeper into **machine learning theory**, so I'm currently learning on topics such as the PAC learning framework, VC-Dimension, and so on.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Co-authored with Nahtreom!
--->
-
-#### Recent activities:
-
-#### 1. 2020 Winter - MIT - Missing Semester
-
-Start: 2023.10 - Total: 10 Lectures - Now: Data Wrangling
-
-![](https://progress-bar.dev/40/)
-
-#### 7. 2022 Spring - NTU - Machine Learning
-
-Start: 2023.11 - Total: 15 Lectures - Now: Introduction of Deep Learning
-
-Repo: [22Spring-ML-NTU](https://github.com/CoderBak/22Spring-ML-NTU)
-
-![](https://progress-bar.dev/6/)
-
-#### 8. 2023 Winter - Stanford - CS224n, NLP with Deep Learning
-
-Start: 2024.02 - Total: 19 Lectures - Now: Intro & Word Vectors
-
-Repo: [23Winter-CS224N-Stanford](https://github.com/CoderBak/23Winter-CS224N-Stanford)
-
-![](https://progress-bar.dev/4/)
-
-#### 9. 2023 Fall - Berkeley - CS188, Introduction to Artificial Intelligence
-
-Start: 2024.02 - Total: 27 Lectures
-
-![](https://progress-bar.dev/4/)
-
-#### 10. 2020 Fall - Berkeley - CS61C, Great Ideas in Computer Architecture
-
-Start: 2024.02 - Total: 40 Lectures - Now: Intro
-
-![](https://progress-bar.dev/2/)
+Please refer to my personal website [coderbak.com](https://coderbak.com) [(GitHub Pages Mirror)](https://coderbak.github.io) for more information!
